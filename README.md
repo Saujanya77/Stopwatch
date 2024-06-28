@@ -5,4 +5,4 @@ Track your time guys!! <br>
 Time is the only parameter to judge our life ,cause everything changes with it <br>
 Access quickly : https://celadon-frangipane-38280f.netlify.app/
 <br>
-<h2> Happy coding:)</h2>
+<h2><i> Happy coding:)</i></h2>
